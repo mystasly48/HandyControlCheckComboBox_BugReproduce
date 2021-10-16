@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandyControlCheckComboBoxTest", "HandyControlCheckComboBoxTest\HandyControlCheckComboBoxTest.csproj", "{74D83018-7F89-4CF3-8B08-5BEE5D70E04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D83018-7F89-4CF3-8B08-5BEE5D70E04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D83018-7F89-4CF3-8B08-5BEE5D70E04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D83018-7F89-4CF3-8B08-5BEE5D70E04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D83018-7F89-4CF3-8B08-5BEE5D70E04F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77844B32-104F-4AD6-A0B4-5C74E52CE3A4}
+	EndGlobalSection
+EndGlobal
